@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /out*
+Disallow: /soon
+Disallow: */_payload.json*
+Disallow: *#*
+Disallow: *?*
+Host: necjar.com
+Sitemap: https://wiki.necjar.com/sitemap.xml
