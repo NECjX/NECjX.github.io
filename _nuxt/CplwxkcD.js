@@ -1,0 +1,1 @@
+const s=()=>({legacy:!1,locale:"en",messages:{en:{welcomeTitle:'Величайшее знание <span class="⡯NECjAR">NEC<span class="⡯j">j</span>AR</span>'},ru:{welcomeTitle:`Greatest <span class="⡯NECjAR">NEC<span class="⡯j">j</span>AR</span>'s knowledge`}}});export{s as default};
