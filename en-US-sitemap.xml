@@ -44,10 +44,22 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/NECjAR" />
     </url>
     <url>
+        <loc>https://necjar.com/Nectar_NCAP</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_NCAP" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_NCAP" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_NCAP" />
+    </url>
+    <url>
         <loc>https://necjar.com/out</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/out" />
         <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/out" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/out" />
+    </url>
+    <url>
+        <loc>https://necjar.com/Perks</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Perks" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Perks" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Perks" />
     </url>
     <url>
         <loc>https://necjar.com/Remington_870</loc>
