@@ -25,16 +25,28 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Bulletproof_coat" />
     </url>
     <url>
-        <loc>https://necjar.com/ru/ECHO</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/ECHO" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/ECHO" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/ECHO" />
+        <loc>https://necjar.com/ru/Empty</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Empty" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Empty" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Empty" />
+    </url>
+    <url>
+        <loc>https://necjar.com/ru/Head_Held_High</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Head_Held_High" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Head_Held_High" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Head_Held_High" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Kadae</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Kadae" />
         <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Kadae" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Kadae" />
+    </url>
+    <url>
+        <loc>https://necjar.com/ru/Muse</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Muse" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Muse" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Muse" />
     </url>
     <url>
         <loc>https://necjar.com/ru/NECjAR</loc>
