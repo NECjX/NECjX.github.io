@@ -31,6 +31,12 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Empty" />
     </url>
     <url>
+        <loc>https://necjar.com/ru/GR8</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/GR8" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/GR8" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/GR8" />
+    </url>
+    <url>
         <loc>https://necjar.com/ru/Head_Held_High</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Head_Held_High" />
         <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Head_Held_High" />
@@ -55,10 +61,34 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/NECjAR" />
     </url>
     <url>
-        <loc>https://necjar.com/ru/Nectar_NCAP</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_NCAP" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_NCAP" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_NCAP" />
+        <loc>https://necjar.com/ru/Nectar_Autodrome</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_Autodrome" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_Autodrome" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_Autodrome" />
+    </url>
+    <url>
+        <loc>https://necjar.com/ru/Nectar_Car_Assessment_Program</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_Car_Assessment_Program" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_Car_Assessment_Program" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_Car_Assessment_Program" />
+    </url>
+    <url>
+        <loc>https://necjar.com/ru/Nectar_City</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_City" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_City" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_City" />
+    </url>
+    <url>
+        <loc>https://necjar.com/ru/Nectar_Exchange</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_Exchange" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_Exchange" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_Exchange" />
+    </url>
+    <url>
+        <loc>https://necjar.com/ru/Nectar_Wind_Tunnel</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_Wind_Tunnel" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_Wind_Tunnel" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_Wind_Tunnel" />
     </url>
     <url>
         <loc>https://necjar.com/ru/out</loc>
@@ -77,6 +107,12 @@
         <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Remington_870" />
         <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Remington_870" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Remington_870" />
+    </url>
+    <url>
+        <loc>https://necjar.com/ru/Reptiloids</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Reptiloids" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Reptiloids" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Reptiloids" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Travis_Traveler</loc>
