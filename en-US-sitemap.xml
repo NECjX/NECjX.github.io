@@ -20,6 +20,12 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Artifacts" />
     </url>
     <url>
+        <loc>https://necjar.com/Battles</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Battles" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Battles" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Battles" />
+    </url>
+    <url>
         <loc>https://necjar.com/Bulletproof_coat</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Bulletproof_coat" />
         <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Bulletproof_coat" />
