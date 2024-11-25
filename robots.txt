@@ -7,3 +7,6 @@ Disallow: *#*
 Disallow: *?*
 Host: necjar.com
 Sitemap: https://wiki.necjar.com/sitemap.xml
+
+User-Agent: ia_archiver
+Disallow: /
