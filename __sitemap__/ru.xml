@@ -2,135 +2,135 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://necjar.com/ru</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Anna</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Anna" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Anna" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Anna" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Anna" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Anna" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Artifacts</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Artifacts" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Artifacts" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Artifacts" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Artifacts" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Artifacts" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Battles</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Battles" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Battles" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Battles" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Battles" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Battles" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Bulletproof_coat</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Bulletproof_coat" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Bulletproof_coat" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Bulletproof_coat" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Bulletproof_coat" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Bulletproof_coat" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Empty</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Empty" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Empty" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Empty" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Empty" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Empty" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Front_Toward_Enemy</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Front_Toward_Enemy" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Front_Toward_Enemy" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Front_Toward_Enemy" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Front_Toward_Enemy" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Front_Toward_Enemy" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Head_Held_High</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Head_Held_High" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Head_Held_High" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Head_Held_High" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Head_Held_High" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Head_Held_High" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Kadae</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Kadae" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Kadae" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Kadae" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Kadae" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Kadae" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Muse</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Muse" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Muse" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Muse" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Muse" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Muse" />
     </url>
     <url>
         <loc>https://necjar.com/ru/NECjAR</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/NECjAR" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/NECjAR" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/NECjAR" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/NECjAR" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/NECjAR" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Nectar_Autodrome</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_Autodrome" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_Autodrome" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Nectar_Autodrome" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Nectar_Autodrome" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_Autodrome" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Nectar_Car_Assessment_Program</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_Car_Assessment_Program" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_Car_Assessment_Program" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Nectar_Car_Assessment_Program" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Nectar_Car_Assessment_Program" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_Car_Assessment_Program" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Nectar_City</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_City" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_City" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Nectar_City" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Nectar_City" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_City" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Nectar_Exchange</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_Exchange" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_Exchange" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Nectar_Exchange" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Nectar_Exchange" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_Exchange" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Nectar_Wind_Tunnel</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Nectar_Wind_Tunnel" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Nectar_Wind_Tunnel" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Nectar_Wind_Tunnel" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Nectar_Wind_Tunnel" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Nectar_Wind_Tunnel" />
     </url>
     <url>
         <loc>https://necjar.com/ru/out</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/out" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/out" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/out" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/out" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/out" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Perks</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Perks" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Perks" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Perks" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Perks" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Perks" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Qings_and_Kueens</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Qings_and_Kueens" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Qings_and_Kueens" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Qings_and_Kueens" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Qings_and_Kueens" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Qings_and_Kueens" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Remington_870</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Remington_870" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Remington_870" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Remington_870" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Remington_870" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Remington_870" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Reptiloids</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Reptiloids" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Reptiloids" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Reptiloids" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Reptiloids" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Reptiloids" />
     </url>
     <url>
         <loc>https://necjar.com/ru/Travis_Traveler</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://necjar.com/Travis_Traveler" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://necjar.com/ru/Travis_Traveler" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://necjar.com/Travis_Traveler" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://necjar.com/ru/Travis_Traveler" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://necjar.com/Travis_Traveler" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by Nuxt Simple Sitemap v4.4.0 -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.2.9 at 2025-03-21T12:20:28.279Z -->
